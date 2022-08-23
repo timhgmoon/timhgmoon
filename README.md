@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Tim! 👋</h1>
+<h1 align="center"> 👋 Hi there, I'm Tim!</h1>
+<p align="center"><img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt ="animated gif" /></p>
 
 # About Me:
 - 📚 Software Engineer using Python/Django to build back end server
